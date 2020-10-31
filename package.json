@@ -1,0 +1,13 @@
+{
+  "name": "tilt-thermostat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "args": "^5.0.1",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.20",
+    "smartthings-node": "^0.0.4",
+    "yargs": "^16.1.0"
+  }
+}
